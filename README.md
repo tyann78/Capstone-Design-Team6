@@ -37,8 +37,8 @@
 
 - **프론트엔드**: Kotlin, Pixel 3a XL API 34 이상
 - **백엔드**: Java, Spring Boot
-- **데이터베이스**: PostgreSQL
-- **외부 API**: Maps API, 교통 상황 API (예: Google Maps API)
+- **데이터베이스**: MySQL
+- **외부 API**: Tmap open api
 
 ## 프로그램 실행을 위한 요구 사항
 
